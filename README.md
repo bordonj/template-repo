@@ -14,7 +14,7 @@
 ## Description
 
 ## Setup/Installation Requirements
-
+* after cloning repo run `npm i`
 * _This is a great place_
 * _to list setup instructions_
 * _in a simple_
